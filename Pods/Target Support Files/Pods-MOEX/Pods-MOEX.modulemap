@@ -1,0 +1,6 @@
+framework module Pods_MOEX {
+  umbrella header "Pods-MOEX-umbrella.h"
+
+  export *
+  module * { export * }
+}
